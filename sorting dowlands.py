@@ -1,6 +1,7 @@
-import shutil
 import os
+import shutil
 from tkinter import filedialog
+
 import customtkinter as ctk
 
 root = ctk.CTk()

@@ -1,7 +1,7 @@
-import pyautogui
 import os
+
 import customtkinter as ctk
-from PIL import Image
+import pyautogui
 
 root = ctk.CTk()
 

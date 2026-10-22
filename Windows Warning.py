@@ -21,7 +21,7 @@ label =  ctk.CTkLabel(root, text="Name of the Title: ", font=("Arail", 25, "bold
 entry1 = ctk.CTkEntry(root, font=("Arial", 25, "bold"), width=300, height= 40)
 entry1.place(x= 96, y= 70)
 
-label1 =  ctk.CTkLabel(root, text="Wriete text for the Sound: ", font=("Arail", 25, "bold")).place(x= 110, y= 160)
+label1 =  ctk.CTkLabel(root, text="Write text for the Sound: ", font=("Arail", 25, "bold")).place(x= 110, y= 160)
 
 entry2 = ctk.CTkEntry(root, font=("Arial", 25, "bold"), width=300, height= 40)
 entry2.place(x= 96, y=210)

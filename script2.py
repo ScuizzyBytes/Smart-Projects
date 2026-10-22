@@ -1,5 +1,5 @@
-import qrcode
 import customtkinter as ctk
+import qrcode
 
 root = ctk.CTk()
 root.title("QR Code Generator")
