@@ -1,6 +1,6 @@
 # ⚡ Smart Projects Engine & Experiments
 
-> High-performance Python playground featuring real-time visual simulations, system monitoring, web automation, socket networking, and custom engine mechanics.
+> High-performance Python playground featuring real-time visual simulations, system monitoring, web automation, socket networking, and custom engine mechanics
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Active_Development-brightgreen?style=for-the-badge)
